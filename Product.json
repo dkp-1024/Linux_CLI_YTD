@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Rice",
+		"brand": "A",
+		"category": "Daily",
+		"price": 111,
+		"avialabity": true
+	},
+	{
+		"id": 2,
+		"name": "Brocoli",
+		"brand": "A",
+		"category": "Vegetables",
+		"price": 23,
+		"avialabity": true
+	},
+	{
+		"id": 3,
+		"name": "Cucumber",
+		"brand": "B",
+		"category": "Vegetables",
+		"price": 34,
+		"avialabity": true
+	},
+	{
+		"id": 4,
+		"name": "Tomato",
+		"brand": "C",
+		"category": "Vegetables",
+		"price": 12,
+		"avialabity": true
+	},
+	{
+		"id": 5,
+		"name": "Carrot",
+		"brand": "D",
+		"category": "Vegetables",
+		"price": 24,
+		"avialabity": true
+	},
+	{
+		"id": 6,
+		"name": "Brinjal",
+		"brand": "D",
+		"category": "Vegetables",
+		"price": 32,
+		"avialabity": true
+	},
+	{
+		"id": 7,
+		"name": "Potato",
+		"brand": "C",
+		"category": "Vegetables",
+		"price": 52,
+		"avialabity": true
+	},
+	{
+		"id": 8,
+		"name": "Corn",
+		"brand": "A",
+		"category": "Daily",
+		"price": 32,
+		"avialabity": true
+	},
+	{
+		"id": 9,
+		"name": "Apple",
+		"brand": "B",
+		"category": "Fruit",
+		"price": 35,
+		"avialabity": true
+	},
+	{
+		"id": 10,
+		"name": "Grapes",
+		"brand": "A",
+		"category": "Fruit",
+		"price": 65,
+		"avialabity": true
+	},
+	{
+		"id": 11,
+		"name": "Orange",
+		"brand": "B",
+		"category": "Fruit",
+		"price": 41,
+		"avialabity": true
+	},
+	{
+		"id": 12,
+		"name": "Pomegranate",
+		"brand": "C",
+		"category": "Fruit",
+		"price": 51,
+		"avialabity": true
+	},
+	{
+		"id": 13,
+		"name": "Almonds",
+		"brand": "D",
+		"category": "Daily",
+		"price": 109,
+		"avialabity": true
+	},
+	{
+		"id": 14,
+		"name": "Cashews",
+		"brand": "C",
+		"category": "Daily",
+		"price": 123,
+		"avialabity": true
+	},
+	{
+		"id": 15,
+		"name": "Pista",
+		"brand": "A",
+		"category": "Daily",
+		"price": 567,
+		"avialabity": true
+	}
+]
